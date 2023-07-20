@@ -38,11 +38,9 @@ export function NewTransactionModal() {
             </TransactionTypeButton>
           </TransactionType>
 
-          <button type="submit">
-            Cadastrar
-          </button>
+          <button type="submit">Cadastrar</button>
         </form>
       </Content>
     </Dialog.Portal>
-  );
+  )
 }
