@@ -15,6 +15,30 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2023-07-20T01:16:40.374Z"
+    },
+    {
+      "description": "Freela",
+      "price": 2000,
+      "category": "Freela",
+      "type": "income",
+      "createdAt": "2023-07-22T01:04:31.261Z",
+      "id": 3
+    },
+    {
+      "description": "Café",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-22T01:05:59.768Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 50,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-07-22T01:19:17.031Z",
+      "id": 5
     }
   ]
 }
